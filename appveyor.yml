@@ -1,0 +1,3 @@
+version: 1.0.{build}
+image: Ubuntu1604
+stack: jdk 8

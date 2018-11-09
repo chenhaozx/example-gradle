@@ -3,6 +3,7 @@
 
 [![Build Status](https://travis-ci.org/chenhaozx/example-gradle.svg?branch=master)](https://travis-ci.org/chenhaozx/example-gradle)
 [![Build status](https://ci.appveyor.com/api/projects/status/tlxfjg43m0i0udf7?svg=true)](https://ci.appveyor.com/project/chenhaozx/example-gradle)
+[![codecov](https://codecov.io/gh/chenhaozx/example-gradle/branch/master/graph/badge.svg)](https://codecov.io/gh/chenhaozx/example-gradle)
 
 1. Add Jacoco Plugin to your `build.gradle`. [See here](https://github.com/codecov/example-gradle/blob/master/build.gradle#L5)
 1. Set Jacoco to export xml. [See here](https://github.com/codecov/example-gradle/blob/master/build.gradle#L18-L23)

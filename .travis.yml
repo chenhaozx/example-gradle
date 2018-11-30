@@ -5,6 +5,7 @@ sudo: false # faster builds
 branches:
   only:
   - master
+  - test-ci
   
 after_success:
   - bash <(curl -s https://codecov.io/bash)

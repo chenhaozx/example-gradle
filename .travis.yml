@@ -52,4 +52,3 @@ deploy:
       tags: true
       branch: master
       condition: $TRAVIS_PULL_REQUEST == "false"
-
